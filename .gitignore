@@ -3,3 +3,7 @@
 /output/**
 
 /samples/**
+
+/__pycache__/**
+
+/.logfire/**
